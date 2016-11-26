@@ -1,0 +1,251 @@
+Rank,Beer,Brewery,State,ABV,Style
+1,Good Morning,Tree House Brewing Company,Massachusetts,8.4,American Double / Imperial Stout 
+2,Kentucky Brunch Brand Stout,Toppling Goliath Brewing Company,Iowa,12,American Double / Imperial Stout 
+3,Mornin' Delight,Toppling Goliath Brewing Company,Iowa,12,American Double / Imperial Stout 
+4,Pliny The Younger,Russian River Brewing Company,California,11,American Double / Imperial IPA 
+5,Heady Topper,The Alchemist,Vermont,8,American Double / Imperial IPA 
+6,Founders CBS Imperial Stout,Founders Brewing Company,Michigan,10.6,American Double / Imperial Stout 
+7,Dinner,Maine Beer Company,Maine,8.2,American Double / Imperial IPA 
+8,Julius,Tree House Brewing Company,Massachusetts,6.8,American IPA 
+9,Bourbon Barrel Aged Vanilla Bean Dark Lord,3 Floyds Brewing Co.,Indiana,15,Russian Imperial Stout 
+10,Trappist Westvleteren 12 (XII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Belgium,10.2,Quadrupel (Quad) 
+11,Pliny The Elder,Russian River Brewing Company,California,8,American Double / Imperial IPA 
+12,Bourbon County Brand Coffee Stout,Goose Island Beer Co.,Illinois,13.4,American Double / Imperial Stout 
+13,Double Sunshine IPA,Lawson's Finest Liquids,Vermont,8,American Double / Imperial IPA 
+14,Barrel-Aged Abraxas,Perennial Artisan Ales,Kansas,11,American Double / Imperial Stout 
+15,Founders KBS (Kentucky Breakfast Stout),Founders Brewing Company,Michigan,11.2,American Double / Imperial Stout 
+16,Sip Of Sunshine,Lawson's Finest Liquids,Vermont,8,American IPA 
+17,Focal Banger,The Alchemist,Vermont,7,American IPA 
+18,Abner,Hill Farmstead Brewery,Vermont,8.2,American Double / Imperial IPA 
+19,Citra Double IPA,Kern River Brewing Company,California,8,American Double / Imperial IPA 
+20,Fundamental Observation,Bottle Logic Brewing,California,14.3,American Double / Imperial Stout 
+21,Zombie Dust,3 Floyds Brewing Co.,Indiana,6.2,American Pale Ale (APA) 
+22,Parabola,Firestone Walker Brewing Co.,California,14,Russian Imperial Stout 
+23,King Sue,Toppling Goliath Brewing Company,Iowa,8,American Double / Imperial IPA 
+24,Triple Sunshine IPA,Lawson's Finest Liquids,Vermont,10.5,American Double / Imperial IPA 
+25,Artaic,Trillium Brewing Company,Massachusetts,8.5,American Double / Imperial IPA 
+26,Ann,Hill Farmstead Brewery,Vermont,6.5,Saison / Farmhouse Ale 
+27,In Perpetuity,Tree House Brewing Company,Massachusetts,6.7,American IPA 
+28,Double Galaxy,Hill Farmstead Brewery,Vermont,8,American Double / Imperial IPA 
+29,PseudoSue,Toppling Goliath Brewing Company,Iowa,5.8,American Pale Ale (APA) 
+30,Hunahpu's Imperial Stout,Cigar City Brewing,Florida,11,American Double / Imperial Stout 
+31,Morning Wood,Funky Buddha Brewery,Florida,12,American Porter 
+32,Supplication,Russian River Brewing Company,California,7,American Wild Ale 
+33,Cantillon Fou' Foune,Brasserie Cantillon,Belgium,5,Lambic - Fruit 
+34,Green,Tree House Brewing Company,Massachusetts,7.6,American IPA 
+35,Duck Duck Gooze,The Lost Abbey,California,7,American Wild Ale 
+36,Bourbon County Brand Stout,Goose Island Beer Co.,Illinois,13.8,American Double / Imperial Stout 
+37,Bell's Black Note Stout,"Bell's Brewery, Inc.",Michigan,11.4,American Double / Imperial Stout 
+38,The Abyss,Deschutes Brewery,Oregon,11,American Double / Imperial Stout 
+39,Cantillon Blåbær Lambik,Brasserie Cantillon,Belgium,5,Lambic - Fruit 
+40,Society & Solitude #4,Hill Farmstead Brewery,Vermont,8,American Double / Imperial IPA 
+41,SR-71 Blackbird (2015),Toppling Goliath Brewing Company,Iowa,14,American Double / Imperial Stout 
+42,Bourbon County Brand Barleywine Ale,Goose Island Beer Co.,Illinois,12.1,English Barleywine 
+43,Todd The Axe Man,Surly Brewing Company,Minnesota,7.2,American IPA 
+44,Alter Ego,Tree House Brewing Company,Massachusetts,6.8,American IPA 
+45,Ephraim,Hill Farmstead Brewery,Vermont,10.5,American Double / Imperial IPA 
+46,Kuhnhenn Bourbon Barrel Fourth Dementia,Kuhnhenn Brewing Company,Michigan,13.5,Old Ale 
+47,Bourbon Barrel Aged Dark Lord Imperial Stout,3 Floyds Brewing Co.,Indiana,15,Russian Imperial Stout 
+48,BOMB!,Prairie Artisan Ales,Oklahoma,14,American Double / Imperial Stout 
+49,Double Citra,Hill Farmstead Brewery,Vermont,8,American Double / Imperial IPA 
+50,Trappist Westvleteren 8 (VIII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Belgium,8,Dubbel 
+51,Dark Horse Bourbon Barrel Aged Plead The 5th,Dark Horse Brewing Company,Michigan,11,Russian Imperial Stout 
+52,Galaxy Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,Massachusetts,6.6,American Pale Ale (APA) 
+53,Founders Breakfast Stout,Founders Brewing Company,Michigan,8.3,American Double / Imperial Stout 
+54,Black Tuesday,The Bruery,California,19.2,American Double / Imperial Stout 
+55,Trappistes Rochefort 10,Brasserie de Rochefort,Belgium,11.3,Quadrupel (Quad) 
+56,Atrial Rubicite,Jester King Brewery,Texas,5.8,American Wild Ale 
+57,Abrasive Ale,Surly Brewing Company,Minnesota,9,American Double / Imperial IPA 
+58,Everett Porter,Hill Farmstead Brewery,Vermont,7.5,American Porter 
+59,Beatification,Russian River Brewing Company,California,5.5,American Wild Ale 
+60,Fuzzy Baby Ducks IPA,New England Brewing Co.,Connecticut,6.2,American IPA 
+61,Susan,Hill Farmstead Brewery,Vermont,6.2,American IPA 
+62,Hopslam Ale,"Bell's Brewery, Inc.",Michigan,10,American Double / Imperial IPA 
+63,Cantillon Lou Pepe - Kriek,Brasserie Cantillon,Belgium,5,Lambic - Fruit 
+64,AleSmith Speedway Stout - Bourbon Barrel Aged,AleSmith Brewing Company,California,12,American Double / Imperial Stout 
+65,Old Stock Cellar Reserve (Aged In Brandy Barrels),North Coast Brewing Co.,California,15.2,Old Ale 
+66,Cable Car,The Lost Abbey,California,7,American Wild Ale 
+67,Drie Fonteinen Oude Geuze Golden Blend,Brouwerij Drie Fonteinen,Belgium,7.5,Gueuze 
+68,Haze,Tree House Brewing Company,Massachusetts,8.2,American Double / Imperial IPA 
+69,Imperial Biscotti Break Bourbon Barrel Aged,Evil Twin Brewing,Denmark,11.5,American Double / Imperial Stout 
+70,Double Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,Massachusetts,6.6,American Pale Ale (APA) 
+71,Adam From The Wood,Hair of the Dog Brewing Company / Brewery and Tasting Room,Oregon,12,Old Ale 
+72,§ucaba,Firestone Walker Brewing Co.,California,12.5,English Barleywine 
+73,Assassin Imperial Stout,Toppling Goliath Brewing Company,Iowa,12,American Double / Imperial Stout 
+74,Drie Fonteinen Oude Geuze Vintage,Brouwerij Drie Fonteinen,Belgium,6,Gueuze 
+75,Society & Solitude #5,Hill Farmstead Brewery,Vermont,8.1,American Double / Imperial IPA 
+76,Black Gold (2015),Central Waters Brewing Co.,Wisconsin,11,American Double / Imperial Stout 
+77,Permanent Funeral,3 Floyds Brewing Co.,Indiana,10.5,American Double / Imperial IPA 
+78,Columbus Bodhi DIPA,Columbus Brewing Company,Ohio,8.5,American Double / Imperial IPA 
+79,No Rules,Perrin Brewery,Michigan,15,American Porter 
+80,Fort Point Pale Ale,Trillium Brewing Company,Massachusetts,6.6,American Pale Ale (APA) 
+81,Sosus,Toppling Goliath Brewing Company,Iowa,8,American Double / Imperial IPA 
+82,Double Dry Hopped Congress Street,Trillium Brewing Company,Massachusetts,7.2,American IPA 
+83,Stickee Monkee,Firestone Walker Brewing Co.,California,13.4,Quadrupel (Quad) 
+84,Maple Bacon Coffee Porter,Funky Buddha Brewery,Florida,6.4,American Porter 
+85,St. Bernardus Abt 12,Brouwerij St. Bernardus NV,Belgium,10,Quadrupel (Quad) 
+86,Headroom Double IPA,Trillium Brewing Company,Massachusetts,8,American Double / Imperial IPA 
+87,Upper Case,Trillium Brewing Company,Massachusetts,9,American Double / Imperial IPA 
+88,Congress Street IPA,Trillium Brewing Company,Massachusetts,7.2,American IPA 
+89,Cantillon Saint Lamvinus,Brasserie Cantillon,Belgium,5,Lambic - Fruit 
+90,Last Snow,Funky Buddha Brewery,Florida,6.5,American Porter 
+91,Curiosity Twenty Two,Tree House Brewing Company,Massachusetts,7,American IPA 
+92,Imperial Russian Stout - Bourbon Barrel Aged,Stone Brewing Co.,California,11.5,Russian Imperial Stout 
+93,Drie Fonteinen Framboos,Brouwerij Drie Fonteinen,Belgium,5,Lambic - Fruit 
+94,Keene Idea,Alpine Beer Company,California,8.9,American Double / Imperial IPA 
+95,Bourbon Barrel Champion Ground,Jackie O's Pub & Brewery,Ohio,11,American Double / Imperial Stout 
+96,Fuzzy,Side Project Brewing,Missouri,8,American Wild Ale 
+97,Mother Of All Storms,Pelican Pub & Brewery,Oregon,14,English Barleywine 
+98,Consecration,Russian River Brewing Company,California,10,American Wild Ale 
+99,Notorious Triple IPA,Boneyard Beer Company,Oregon,12,American Double / Imperial IPA 
+100,Imperial Eclipse Stout - Elijah Craig (12 Year),FiftyFifty Brewing Co.,California,11.9,American Double / Imperial Stout 
+101,Bourbon Barrel Aged Abominable: Coffee And Cinnamon,Fremont Brewing Company,Washington,11,American Strong Ale 
+102,Temptation,Russian River Brewing Company,California,7.5,American Wild Ale 
+103,All Green Everything,Other Half Brewing Co.,New York,10.5,American Double / Imperial IPA 
+104,Peg's G.O.O.D. RareR D.O.S.,Peg's Cantina & Brew Pub,Florida,10,American Double / Imperial Stout 
+105,Darkness,Surly Brewing Company,Minnesota,10.3,Russian Imperial Stout 
+106,See The Stars,Creature Comforts,Georgia,10.9,Russian Imperial Stout 
+107,Chocolate Rain,The Bruery,California,18.5,American Double / Imperial Stout 
+108,Weihenstephaner Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,Germany,5.4,Hefeweizen 
+109,Dreadnaught IPA,3 Floyds Brewing Co.,Indiana,9.5,American Double / Imperial IPA 
+110,Stone Enjoy By IPA,Stone Brewing Co.,California,9.4,American Double / Imperial IPA 
+111,Wide Awake It's Morning,Funky Buddha Brewery,Florida,10.5,American Double / Imperial Stout 
+112,Cantillon Lou Pepe - Framboise,Brasserie Cantillon,Belgium,5,Lambic - Fruit 
+113,Pallet 1,Peg's Cantina & Brew Pub,Florida,10.4,American Double / Imperial Stout 
+114,Double Shot - Sumatra Mandheling,Tree House Brewing Company,Massachusetts,7.8,American Stout 
+115,Bad Boy,Alpine Beer Company,California,9,American Double / Imperial IPA 
+116,Born Yesterday Pale Ale,Lagunitas Brewing Company,California,6.5,American Pale Ale (APA) 
+117,Oro Negro,Jackie O's Pub & Brewery,Ohio,10.5,American Double / Imperial Stout 
+118,Sunday Brunch,Kane Brewing Company,New Jersey,9.2,American Porter 
+119,Matt,Hair of the Dog Brewing Company / Brewery and Tasting Room,Oregon,11.5,American Strong Ale 
+120,Seventeen,Central Waters Brewing Co.,Wisconsin,11.5,American Double / Imperial Stout 
+121,Samuel Adams Utopias,Boston Beer Company (Samuel Adams),Massachusetts,29,American Strong Ale 
+122,Péché Mortel,Brasserie Dieu du Ciel!,Canada,9.5,American Double / Imperial Stout 
+123,Prairie Pirate Bomb!,Prairie Artisan Ales,Oklahoma,14,American Double / Imperial Stout 
+124,Rodenbach Caractère Rouge,Brouwerij Rodenbach N.V.,Belgium,7,Flanders Red Ale 
+125,Evil Twin Double Barrel Jesus,Evil Twin Brewing,Denmark,12,American Double / Imperial Stout 
+126,A Deal With The Devil,Anchorage Brewing Company,Alaska,17.3,American Barleywine 
+127,Citra Showers,Noble Ale Works,California,8.8,American Double / Imperial IPA 
+128,Hop JuJu Imperial IPA,Fat Head's Brewery & Saloon,Ohio,9,American Double / Imperial IPA 
+129,Nelson,Alpine Beer Company,California,7,American IPA 
+130,Edward,Hill Farmstead Brewery,Vermont,5.2,American Pale Ale (APA) 
+131,Saison Du Fermier,Side Project Brewing,Missouri,7,Saison / Farmhouse Ale 
+132,Sculpin IPA,Ballast Point Brewing Company,California,7,American IPA 
+133,Great,Alpine Beer Company,California,14,American Barleywine 
+134,Coriolis,New England Brewing Co.,Connecticut,8.2,American Double / Imperial IPA 
+135,Yellow Rose,The Lone Pint Brewery,Texas,6.8,American IPA 
+136,Exponential Hoppiness,Alpine Beer Company,California,11,American Double / Imperial IPA 
+137,Peche 'n Brett,Logsdon Farmhouse Ales,Oregon,10,Saison / Farmhouse Ale 
+138,Epiphany,Foundation Brewing Company,Maine,8,American IPA 
+139,Cascade Sang Noir,Cascade Brewing / Raccoon Lodge & Brewpub,Oregon,9.5,American Wild Ale 
+140,AleSmith Speedway Stout - Vietnamese Coffee,AleSmith Brewing Company,California,12,American Double / Imperial Stout 
+141,Mosaic Dry Hopped Fort Point,Trillium Brewing Company,Massachusetts,6.6,American Pale Ale (APA) 
+142,Second Fiddle,Fiddlehead Brewing Company,Vermont,8.2,American Double / Imperial IPA 
+143,Swish,Bissell Brothers Brewing Co.,Maine,8,American Double / Imperial IPA 
+144,Framboise Du Fermier,Side Project Brewing,Missouri,8,Saison / Farmhouse Ale 
+145,Drie Fonteinen Hommage,Brouwerij Drie Fonteinen,Belgium,6,Lambic - Fruit 
+146,AleSmith Speedway Stout,AleSmith Brewing Company,California,12,American Double / Imperial Stout 
+147,Kuhnhenn Raspberry Eisbock,Kuhnhenn Brewing Company,Michigan,15.5,Eisbock 
+148,Sure Bet,Pipeworks Brewing Company,Illinois,9.5,American Double / Imperial IPA 
+149,Live Oak HefeWeizen,Live Oak Brewing Company,Texas,5.2,Hefeweizen 
+150,Cantillon Gueuze 100% Lambic,Brasserie Cantillon,Belgium,5,Gueuze 
+151,Double Shot,Tree House Brewing Company,Massachusetts,7.6,American Stout 
+152,Bourbon Barrel Black Maple,Jackie O's Pub & Brewery,Ohio,11,American Porter 
+153,Abraxas,Perennial Artisan Ales,Kansas,10,American Double / Imperial Stout 
+154,Vicinity,Trillium Brewing Company,Massachusetts,8,American Double / Imperial IPA 
+155,Cantillon Lou Pepe - Gueuze,Brasserie Cantillon,Belgium,5,Gueuze 
+156,Victory At Sea Coffee Vanilla Imperial Porter,Ballast Point Brewing Company,California,10,American Porter 
+157,The Pupil,Societe Brewing Co.,California,7.8,American IPA 
+158,Project Dank,La Cumbre Brewing Co.,New Mexico,7.5,American IPA 
+159,Wisconsin Belgian Red,New Glarus Brewing Company,Wisconsin,4,Fruit / Vegetable Beer 
+160,Tweak,Avery Brewing Company,Colorado,17.8,American Double / Imperial Stout 
+161,Rare Bourbon County Brand Stout (2015),Goose Island Beer Co.,Illinois,14.5,American Double / Imperial Stout 
+162,Snowed In - Bourbon Barrel Aged,Funky Buddha Brewery,Florida,11,American Double / Imperial Stout 
+163,ScareCity #3: High West-ified Imperial Coffee Stout,Lagunitas Brewing Company,California,12.1,American Double / Imperial Stout 
+164,Uncle Jacob's Stout,Avery Brewing Company,Colorado,16.9,American Double / Imperial Stout 
+165,Péché Mortel En Fût De Bourbon Américain,Brasserie Dieu du Ciel!,Canada,9.5,American Double / Imperial Stout 
+166,Montmorency Vs Balaton,Jester King Brewery,Texas,6.7,American Wild Ale 
+167,Society & Solitude #6,Hill Farmstead Brewery,Vermont,8.1,American Double / Imperial IPA 
+168,Hop Venom Double IPA,Boneyard Beer Company,Oregon,8.9,American Double / Imperial IPA 
+169,Grey Monday,The Bruery,California,19.5,American Double / Imperial Stout 
+170,Afterimage,Grimm Artisanal Ales,New York,8,American Double / Imperial IPA 
+171,Mexican Cake,Westbrook Brewing Co.,South Carolina,10.5,American Double / Imperial Stout 
+172,Old Stock Cellar Reserve (Aged In Bourbon Barrels),North Coast Brewing Co.,California,13.2,Old Ale 
+173,Masala Mama India Pale Ale,Minneapolis Town Hall Brewery,Minnesota,6,American IPA 
+174,Bourbon Barrel Aged Dark Star: Coffee Edition,Fremont Brewing Company,Washington,14.5,American Double / Imperial Stout 
+175,Stone Imperial Russian Stout,Stone Brewing Co.,California,10.6,Russian Imperial Stout 
+176,R&D Vintage 2014,New Glarus Brewing Company,Wisconsin,6,American Wild Ale 
+177,What Is Enlightenment?,Hill Farmstead Brewery,Vermont,5.4,American Pale Ale (APA) 
+178,Bourbon Abominable Winter Ale,Fremont Brewing Company,Washington,11,American Strong Ale 
+179,The Event Horizon,Olde Hickory Brewery,North Carolina,8.5,American Double / Imperial Stout 
+180,Mastermind,Fiddlehead Brewing Company,Vermont,8.1,American Double / Imperial IPA 
+181,Damon (Bourbon Barrel Aged),Hill Farmstead Brewery,Vermont,10.5,Russian Imperial Stout 
+182,Raspberry Tart,New Glarus Brewing Company,Wisconsin,4,Fruit / Vegetable Beer 
+183,Citra Pale Ale,Hill Farmstead Brewery,Vermont,5.4,American Pale Ale (APA) 
+184,Arctic Devil Barley Wine,Midnight Sun Brewing Co.,Alaska,13.2,English Barleywine 
+185,Last Buffalo In The Park,Funky Buddha Brewery,Florida,11.5,American Double / Imperial Stout 
+186,Double Dry Hopped Sleeper Street IPA,Trillium Brewing Company,Massachusetts,7.1,American IPA 
+187,Birth Of Tragedy,Hill Farmstead Brewery,Vermont,9,American Porter 
+188,Pure Hoppiness,Alpine Beer Company,California,8,American Double / Imperial IPA 
+189,Lunch,Maine Beer Company,Maine,7,American IPA 
+190,Omega Point,Olde Hickory Brewery,North Carolina,10,English Barleywine 
+191,Hoppy Birthday,Alpine Beer Company,California,5.3,American Pale Ale (APA) 
+192,Beyond Good And Evil,Hill Farmstead Brewery,Vermont,NA,American Double / Imperial Stout 
+193,Ten FIDY,Oskar Blues Grill & Brew,Colorado,10.5,Russian Imperial Stout 
+194,Tröegs Nugget Nectar,Tröegs Brewing Company,Pennsylvania,7.5,American Amber / Red Ale 
+195,Ayinger Celebrator Doppelbock,Privatbrauerei Franz Inselkammer KG / Brauerei Aying,Germany,6.7,Doppelbock 
+196,Founders Imperial Stout,Founders Brewing Company,Michigan,10.5,Russian Imperial Stout 
+197,Evil Twin Imperial Biscotti Break,Evil Twin Brewing,Denmark,11.5,American Double / Imperial Stout 
+198,Melange No. 3,The Bruery,California,15.5,American Strong Ale 
+199,Serendipity,New Glarus Brewing Company,Wisconsin,4,Fruit / Vegetable Beer 
+200,Nooner Batch 10,Peg's Cantina & Brew Pub,Florida,12,American Double / Imperial Stout 
+201,Saison Bernice,Sante Adairius Rustic Ales,California,6.5,Saison / Farmhouse Ale 
+202,West Ashley,Sante Adairius Rustic Ales,California,7.3,American Wild Ale 
+203,Elevated IPA,La Cumbre Brewing Co.,New Mexico,7.2,American IPA 
+204,Aaron,Hill Farmstead Brewery,Vermont,NA,English Barleywine 
+205,Pannepot,De Struise Brouwers,Belgium,10,Quadrupel (Quad) 
+206,30th Anniversary Ale,"Bell's Brewery, Inc.",Michigan,11,American Double / Imperial Stout 
+207,Drie Fonteinen Oude Geuze,Brouwerij Drie Fonteinen,Belgium,6,Gueuze 
+208,Breakfast Exorcism,Clown Shoes,Massachusetts,11,American Double / Imperial Stout 
+209,Melcher Street IPA,Trillium Brewing Company,Massachusetts,7.3,American IPA 
+210,Fat Head's Head Hunter IPA,Fat Head's Brewery & Saloon,Ohio,7.5,American IPA 
+211,AleSmith Speedway Stout - Kopi Luwak,AleSmith Brewing Company,California,12,American Double / Imperial Stout 
+212,Nut Smasher,Willoughby Brewing,Ohio,11,American Double / Imperial Stout 
+213,Lagunitas Sucks (Brown Shugga Substitute Ale),Lagunitas Brewing Company,California,7.9,American Double / Imperial IPA 
+214,Blind Pig IPA,Russian River Brewing Company,California,6.1,American IPA 
+215,Prairie Apple Brandy Noir,Prairie Artisan Ales,Oklahoma,12,American Double / Imperial Stout 
+216,Bourbon Barrel Aged Hi-Fi Rye,Flossmoor Station Restaurant & Brewery,Illinois,10.9,American Barleywine 
+217,Great Lakes Barrel-Aged Blackout Stout,Great Lakes Brewing Co.,Ohio,9.5,Russian Imperial Stout 
+218,Black Damnation V - Double Black,De Struise Brouwers,Belgium,26,American Double / Imperial Stout 
+219,Bitter Monk,Anchorage Brewing Company,Alaska,9,Belgian IPA 
+220,Caffè Americano,Cigar City Brewing,Florida,11,American Double / Imperial Stout 
+221,Wulver,Thirsty Dog Brewing Company,Ohio,12,Scotch Ale / Wee Heavy 
+222,Older Viscosity,Port Brewing,California,12,American Double / Imperial Stout 
+223,Heavy Mettle,Trillium Brewing Company,Massachusetts,9.3,American Double / Imperial IPA 
+224,Duet,Alpine Beer Company,California,7,American IPA 
+225,Three Hour Tour,Minneapolis Town Hall Brewery,Minnesota,6.1,Milk / Sweet Stout 
+226,Kuhnhenn Bourbon Barrel Barley Wine,Kuhnhenn Brewing Company,Michigan,14.5,English Barleywine 
+227,Nelson Sauvin Pale Ale,Hill Farmstead Brewery,Vermont,5.2,American Pale Ale (APA) 
+228,La Fin Du Monde,Unibroue,Canada,9,Tripel 
+229,Box Set Track #10 - Bat Out Of Hell,The Lost Abbey,California,13.5,American Double / Imperial Stout 
+230,Schneider Weisse Tap 6 Unser Aventinus,Weisses Bräuhaus G. Schneider & Sohn GmbH,Germany,8.2,Weizenbock 
+231,&+,Peg's Cantina & Brew Pub,Florida,10.5,American Double / Imperial Stout 
+232,Madagascar,4 Hands Brewing Co.,Missouri,9.3,Milk / Sweet Stout 
+233,Furious,Surly Brewing Company,Minnesota,6.6,American IPA 
+234,Lizard King,Pipeworks Brewing Company,Illinois,6.5,American Pale Ale (APA) 
+235,Luscious,The Alchemist,Vermont,11.1,Russian Imperial Stout 
+236,Mocha Wednesday,The Bruery,California,19.2,American Double / Imperial Stout 
+237,Crank IPA,Peg's Cantina & Brew Pub,Florida,7,American IPA 
+238,Grassroots Brother Soigné,Grassroots Brewing,Vermont,5,Saison / Farmhouse Ale 
+239,Monsters Park - Bourbon Barrel Aged With Coconut And Cacao Nibs,Modern Times Beer,California,13,American Double / Imperial Stout 
+240,Beer Geek Brunch Weasel,Mikkeller ApS,Denmark,10.9,American Double / Imperial Stout 
+241,Tropicália,Creature Comforts,Georgia,6.5,American IPA 
+242,Allagash Coolship Red,Allagash Brewing Company,Maine,5.7,Lambic - Fruit 
+243,Cuvee De Castleton,Captain Lawrence Brewing Co.,New York,9,American Wild Ale 
+244,Kiwi Herman,Alpine Beer Company,California,7,American Wild Ale 
+245,Pipeworks / 4 Hands Square Grouper,Pipeworks Brewing Company,Illinois,9.5,American Double / Imperial IPA 
+246,Devil Over A Barrel - Bourbon Barrel-Aged Coffee Imperial Oatmeal Porter,Tyranena Brewing Company,Wisconsin,8,American Porter 
+247,Mosaic IPA,Other Half Brewing Co.,New York,7.2,American IPA 
+248,Berserker Imperial Stout,Midnight Sun Brewing Co.,Alaska,12.7,American Double / Imperial Stout 
+249,Trappistes Rochefort 8,Brasserie de Rochefort,Belgium,9.2,Belgian Strong Dark Ale 
+250,Andechser Doppelbock Dunkel,Klosterbrauerei Andechs,Germany,7.1,Doppelbock 
